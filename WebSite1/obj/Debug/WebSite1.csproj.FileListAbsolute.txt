@@ -1,0 +1,5 @@
+D:\TTCodeland\Makaleler\WebSite1\WebSite1\obj\Debug\ResolveAssemblyReference.cache
+D:\TTCodeland\Makaleler\WebSite1\WebSite1\bin\WebSite1.dll
+D:\TTCodeland\Makaleler\WebSite1\WebSite1\bin\WebSite1.pdb
+D:\TTCodeland\Makaleler\WebSite1\WebSite1\obj\Debug\WebSite1.dll
+D:\TTCodeland\Makaleler\WebSite1\WebSite1\obj\Debug\WebSite1.pdb
